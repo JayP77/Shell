@@ -1,0 +1,12 @@
+---
+:id: 67478470
+:submitters:
+- :name: Jay Patel
+  :email: jpate260@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-03-01 21:07:21.923691000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-03-01 13:07:21.923691000 Z
+:status: processed
+:score: 100.0
